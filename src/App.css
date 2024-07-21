@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.individual-performance {
+  margin: 20px 0;
+}
+
+.individual-performance-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.label {
+  width: 100px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.slider {
+  flex: 1;
+}
+
+.performance-opportunity {
+  margin: 20px 0;
+}
+
+.performance-bar {
+  height: 50px;
+  line-height: 50px;
+  color: black;
+  font-weight: bold;
+}
+
+.team-dashboard {
+  margin: 20px 0;
+}
+
+.team-dashboard-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+}
