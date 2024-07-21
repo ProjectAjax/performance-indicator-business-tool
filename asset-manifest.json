@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/performance-indicator-business-tool/static/css/main.e6c13ad2.css",
+    "main.js": "/performance-indicator-business-tool/static/js/main.9a9d4a93.js",
+    "static/js/453.3bb0c5e6.chunk.js": "/performance-indicator-business-tool/static/js/453.3bb0c5e6.chunk.js",
+    "index.html": "/performance-indicator-business-tool/index.html",
+    "main.e6c13ad2.css.map": "/performance-indicator-business-tool/static/css/main.e6c13ad2.css.map",
+    "main.9a9d4a93.js.map": "/performance-indicator-business-tool/static/js/main.9a9d4a93.js.map",
+    "453.3bb0c5e6.chunk.js.map": "/performance-indicator-business-tool/static/js/453.3bb0c5e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9a9d4a93.js"
+  ]
+}
